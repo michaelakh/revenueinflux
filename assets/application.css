@@ -711,6 +711,10 @@ footer li {
     color:white;
     font-size:0.95em;
   }
+
+  .footer-brand {
+    color: white;
+  }
   
   div.footer-top {
     background-color:#1C1C1C;
