@@ -889,6 +889,7 @@ svg.cart-icon{
         font-weight:100;
         padding-bottom:20px;
         background-color:white;
+        color: black;
     }
     div.legal h2 {
         padding:10px 10px 10px 20px;
@@ -906,6 +907,10 @@ svg.cart-icon{
         text-align:center;
         padding:30px 10px 30px 20px;
         margin:0 auto;
+    }
+
+    div.container.legal ul {
+      font-weight: normal;
     }
 
 .form-h {
